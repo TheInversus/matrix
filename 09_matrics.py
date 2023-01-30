@@ -37,4 +37,3 @@ if rows==columns:
 
 else:
     print("Inverse AND eigenvalue/eigenvectors can only be obtained for squared matrix.")
-w
